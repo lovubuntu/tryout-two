@@ -1,1 +1,2 @@
-# This is a markdown file
+# Heading
+This is a sample Github Exploration mode
